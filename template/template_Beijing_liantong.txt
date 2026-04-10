@@ -70,7 +70,7 @@ http://ipipip/rtp/239.3.1.128:8001
 http://ipipip/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-id="1" tvg-name="动作影院" tvg-logo="https://www.yangfeiyue.cn/tv/动作影院.png" group-title="华数高清",动作影院
 http://ipipip/rtp/239.3.1.92:4120
-#EXTINF:-1 tvg-id="1" tvg-name="喜剧剧场" tvg-logo="https://www.yangfeiyue.cn/tv/喜剧剧场.png" group-title="华数高清",喜剧剧场
+#EXTINF:-1 tvg-id="1" tvg-name="喜剧影院" tvg-logo="https://www.yangfeiyue.cn/tv/喜剧影院.png" group-title="华数高清",喜剧影院
 http://ipipip/rtp/239.3.1.91:4120
 #EXTINF:-1 tvg-id="1" tvg-name="家庭影院" tvg-logo="https://www.yangfeiyue.cn/tv/家庭影院.png" group-title="华数高清",家庭影院
 http://ipipip/rtp/239.3.1.93:4120
